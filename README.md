@@ -1,4 +1,4 @@
-# PHP Article extractor
+# Amazing PHP Article extractor
 
 This is a web article parsing and language detection library for PHP. This library reads the article content from a web page, removing all HTML and providing just the raw text, suitable for text to speech or machine learning processes.
 
